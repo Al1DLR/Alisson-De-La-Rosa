@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="images/qa_banner_Ali_github.png" alt="Banner QA" width="100%">
+  <img src="https://raw.githubusercontent.com/Al1DLR/Alisson-De-La-Rosa/main/qa_banner_Ali_github.png" alt="Banner QA" width="100%">
 </p>
+
 
 
 # Alisson-De-La-Rosa
