@@ -3,10 +3,6 @@
 </p>
 
 
-<div align="center">
-  <img src="https://your-image-link-here.png" alt="Banner for Alisson De La Rosa" width="800"/>
-</div>
-
 # Hi, I'm Alisson, it is great metting you!👋  
 Aspiring **QA Tester** • Passionate about technology & quality improvement
 
