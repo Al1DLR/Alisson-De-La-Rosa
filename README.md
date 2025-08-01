@@ -1,6 +1,7 @@
 <p align="center">
-  <img src=""C:\Users\Janus\Downloads\ChatGPT Image 1 ago 2025, 06_43_52 a.m..png"" alt="Banner QA" width="100%">
+  <img src="images/qa_banner_Ali_github.png" alt="Banner QA" width="100%">
 </p>
+
 
 # Alisson-De-La-Rosa
 <div align="center">
