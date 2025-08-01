@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=""C:\Users\Janus\Downloads\ChatGPT Image 1 ago 2025, 06_43_52 a.m..png"" alt="Banner QA" width="100%">
+</p>
+
 # Alisson-De-La-Rosa
 <div align="center">
   <img src="https://your-image-link-here.png" alt="Banner for Alisson De La Rosa" width="800"/>
@@ -7,6 +11,14 @@
 Aspiring **QA Tester** • Passionate about technology & quality improvement
 
 ---
+### 🚀 QA Aspirant | Passionate about technology & quality improvement
+
+- 📚 Currently studying **QA Testing**
+- 🐍 Practicing **Python** and **Selenium** for test automation
+- 💻 Passionate about **software quality** and best practices
+
+---
+
 
 ## About Me  
 Currently training in **Quality Assurance** with TripleTen — practicing manual testing, API testing (Postman), and basic automation (Python & Selenium). With a solid background in customer service and sales, I bring strong problem‑solving, communication, and documentation skills relevant to QA roles.
@@ -21,6 +33,7 @@ Currently training in **Quality Assurance** with TripleTen — practicing manual
 - Basic SQL / databases
 
 
+⭐ If you like my work, feel free to star my repositories!
 
 ## 🔗 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alisson%20De%20La%20Rosa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
